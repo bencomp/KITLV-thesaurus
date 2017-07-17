@@ -7,9 +7,10 @@ The KITLV thesaurus is a controlled vocabulary developed by the Collections depa
 ## Structure 
 Where applicable the keywords in the KITLV thesaurus are linked together by three types of relationships: 
 
-hierarchical relationships, which link terms to other terms expressing more general and more specific concepts, i.e. broader terms and narrower terms; 
-associative relationships, which link terms to related terms where the relationship between the terms is non-hierarchical; 
-equivalence relationships, which link non-keywords to synonyms or quasi-synonyms which act as keywords.
+* hierarchical relationships, which link terms to other terms expressing more general and more specific concepts, i.e. broader terms and narrower terms; 
+* associative relationships, which link terms to related terms where the relationship between the terms is non-hierarchical; 
+* equivalence relationships, which link non-keywords to synonyms or quasi-synonyms which act as keywords.
+
 All keywords are allocated to 19 subject categories or descriptor groups. Each descriptor group comprises a number of subgroups. All groups and subgroups are identified by a number or sub-number. Some keywords are accompanied by scope notes which explain the meaning and application of terms. All keywords have translations in Dutch, Indonesian, French and Spanish. The KITLV thesaurus contains some 8,200 keywords of which some 900 are non-keywords.
 
 ## How it works 
