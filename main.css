@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body{
+  font-family: 'Open sans';
+  margin-left:auto;
+  margin-right:auto;
+  width:70%;
+}
+
+input[type=button], .btn{
+  border: none;
+  font-family: inherit;
+  font-size: inherit;
+  cursor: pointer;
+  display: inline-block;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+  outline: none;
+  position: relative;
+  background: #aeb5b1;
+  color: #fff;
+  box-shadow: 0 5px #686f6b;
+}
+
+input[type=button]:hover, .btn{
+  background: #4c4c4c;
+}
+
+ul{
+  columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3;
+}
+
+ul > li{
+    list-style-type: none;
+}
