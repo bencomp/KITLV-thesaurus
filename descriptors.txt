@@ -1,0 +1,390 @@
+01.01.01	Development aid - general
+01.01.02	Aid methods
+01.01.03	Types of aid
+01.01.04	Aid programmes
+01.01.05	Aid counterpart
+01.01.06	Development projects
+01.01.07	Aid institutions and personnel
+01.01.08	Voluntary assistance
+01.02.01	Types of international relations
+01.02.02	Territorial questions
+01.02.03	Independence
+01.02.04	International law
+01.02.05	Foreign policy
+01.02.06	Defence
+01.02.07	War and peace
+01.03.01	International organizations - general
+01.03.02	United Nations system
+01.03.03	Intergovernmental organizations
+01.03.04	Nongovernmental organizations
+01.04.01	Regions - general
+01.04.02	Africa
+01.04.03	Americas
+01.04.03.01	North America
+01.04.03.02	Central America
+01.04.03.03	South America
+01.04.04	Asia
+01.04.04.01	South Asia
+01.04.04.02	Southeast Asia
+01.04.04.03	Indonesia
+01.04.05	Europe
+01.04.06	Central and Western Asia
+01.04.07	Pacific
+02.01.01	Development - general
+02.01.02	Economic planning
+02.01.03	Economic policy
+02.02.01	Social policy
+02.02.02	Social theory
+02.03.01	Social security - general
+02.03.02	Social security benefits
+02.04.01	Social problems - general
+02.04.02	Kinds of social problems
+02.04.03	Punishment
+02.05.01	Social services - general
+02.05.02	Health services
+02.05.03	Family services
+03.01.01	Economics - general
+03.01.02	Economic research
+03.02.01	Economic conditions - general
+03.02.02	National accounting
+03.02.03	Economic growth
+03.02.04	Economic cycles
+03.02.05	Standard of living
+03.03.01	Economic systems
+03.03.02	Types of economy
+03.03.03	Classes of countries according to economic system
+03.03.04	Cooperative movements
+03.03.05	Ownership
+04.01.01	Law and legislation - general
+04.01.02	Law classed by field of application
+04.02.01	Human rights - general
+04.02.02	Freedom
+04.02.03	Equality
+04.02.04	Race relations
+04.03.01	The state
+04.03.02	Government administration
+04.03.03	Levels of government
+04.03.04	Civil service
+04.03.05	Bureaucracy
+04.03.06	Public services
+04.04.01	Political theory
+04.04.02	Politics
+05.01.01	Branches of social sciences and humanities
+05.01.02	Methodology of social sciences
+05.02.01	Culture - general
+05.02.02	Cultural environment
+05.02.03	Administration of culture
+05.03.01	Society and the individual
+05.03.02	Psychological aspects
+05.03.03	Social participation
+05.03.04	Social conditions. Social change
+05.03.05	Social status
+05.03.06	Social interaction
+05.03.07	Social organizations
+05.04.01	Ethics
+05.04.02	Religion - general
+05.04.03	Religions
+05.04.04	Religious institutions and organizations
+05.05.01	Archaeology
+05.05.02	Art - general
+05.05.03.01	Literature
+05.05.03.02	Music
+05.05.03.03	Performing arts
+05.05.03.04	Visual arts
+05.06.01	Language - general
+05.06.02	Languages
+05.06.02.01	Papuan and Oceanic languages
+05.06.02.02	Malayo Polynesian languages
+05.06.02.03	Indonesian languages
+05.06.02.04	Asian languages
+05.06.02.05	American languages
+05.06.02.06	Amerindian languages
+06.01.01	Educational sciences
+06.02.01	Education - general
+06.02.02	Access to education
+06.02.03	Educational development
+06.02.04	Educational policy
+06.02.05	Educational financing
+06.03.01	Educational systems - general
+06.03.02	Schooling
+06.03.03	Types of education
+06.03.04	Fields of education
+06.03.05	Education of adults
+06.03.06	Levels of education
+06.03.07	Vocational education
+06.04.01	Educational institutions - general
+06.04.02	Schools according to educational level
+06.04.03	Types of schools
+06.04.05	Higher education institutions
+06.04.06	Vocational schools
+06.04.07	Educational buildings and equipment
+06.04.08	Management of educational institutions
+06.04.09	Admission to educational institutions
+06.04.11	Financial assistance to students
+06.04.12	School environment
+06.04.13	Diplomas
+06.05.01	Curriculum
+06.05.02	Teaching methods
+06.05.03	Teaching aids
+06.05.04	Educational psychology
+06.06.01	Students
+06.06.02	Teaching personnel
+07.01.01	Agricultural sector - general
+07.01.02	Agricultural development
+07.01.03	Agricultural markets
+07.02.01	Land economics
+07.03.01	Farms
+07.03.02	Farm management
+07.03.03	Agricultural financing
+07.04.01	Agricultural equipment
+07.05.01	Agricultural production - general
+07.05.02	Agricultural land
+07.05.03	Types of farming
+07.05.04	Cultivation systems
+07.05.05	Agricultural products
+07.06.01	Agricultural research
+07.07.01	Plants
+07.07.02	Crops
+07.07.03	Plant products - general
+07.07.04	Cereals
+07.07.05	Fruits
+07.07.06	Legumes and vegetables
+07.07.07	Fibre plants
+07.07.08	Gums
+07.07.09	Other crops
+07.08.01	Forestry - general
+07.08.02	Forestry research
+07.08.03	Forest utilization
+07.08.04	Forest management
+07.08.05	Forest equipment
+07.08.06	Forest products
+07.08.07	Types of trees
+07.09.01	Animals
+07.09.02	Animal production
+07.09.03	Animal feeding
+07.09.04	Animal products
+07.10.01	Fishery - general
+07.10.02	Fishery management
+07.10.03	Fish culture. Fishing
+07.10.04	Fish. Fishery products
+08.01.01	Industrial sector
+08.01.02	Industrial development
+08.02.01	Industrial enterprises - general
+08.02.02	Small and medium scale industry
+08.02.03	Industrial areas
+08.02.04	Industrial financing
+08.03.01	Industrial engineering. Industrial equipment
+08.04.01	Industrial production. Industrial products
+08.05.01	Industrial research
+08.06.01	Sectors of food industry
+08.06.02	Food processing
+08.06.04	Food products
+08.06.05	Beverages
+08.06.06	Oil and fats
+08.07.01	Woodworking industry
+08.07.02	Pulp and paper industry
+08.07.03	Manufactured wood products
+08.08.01	Textile industry
+08.08.02	Leather industry
+08.09.01	Rubber industry
+08.10.01	Construction industry
+08.10.02	Construction materials
+08.10.03	Ceramics industry
+08.10.04	Glass industry
+08.11.01	Energy. Energy sources. Fuels
+08.11.02	Electric power
+08.11.03	Nuclear power
+08.11.04	Radioactive materials
+08.11.05	Coal
+08.11.06	Petroleum and gas
+08.12.01	Chemical industry - general
+08.12.02	Chemistry
+08.12.03	Chemical processes
+08.12.04	Chemical substances
+08.12.05	Agricultural chemicals
+08.12.06	Pharmaceuticals
+08.12.07	Plastics
+08.12.08	Other chemical products
+08.13.01	Mining
+08.14.01	Metalworking industry
+08.14.02	Metals
+08.14.03	Metalworking processes
+08.14.04	Metalworking products
+08.14.05	Tools
+08.14.06	Machinery
+08.14.07	Transport industry
+08.15.01	Electronics industry
+08.15.02	Electrical and electronic equipment
+08.16.01	Communications - general
+08.16.02	Communication industry
+08.16.03	Communication engineering
+08.16.04	Communication media
+09.01.01	Trade - general
+09.01.02	Markets
+09.01.03	Consumption
+09.02.01	Prices
+09.03.01	Marketing - general
+09.03.02	Sales. Purchasing
+09.03.03	Stocks and storage
+09.03.04	Advertising
+09.03.05	Trade fairs
+09.04.01	Domestic trade - general
+09.04.02	Commercial policy
+09.04.03	Commercial institutions
+09.04.04	Retail and wholesale trade
+09.04.05	Tourism industry
+09.05.01	International trade - general
+09.05.02	Commodities
+09.05.03	Balance of trade
+09.05.04	Imports
+09.05.05	Exports
+09.05.06	Trade policy
+09.05.07	Trade protection
+09.05.08	Customs and tariffs
+10.01.01	Transport - general
+10.01.02	Transport economics
+10.02.01	Goods and passengers
+10.03.01	Transport infrastructure
+10.04.01	Means of transport
+10.05.01	Modes of transport
+10.06.01	Loading. Packaging
+10.07.01	Traffic
+11.01.01	Public finance
+11.01.02	Taxation
+11.02.01	Money
+11.02.02	Banking. Credit
+11.02.03	Insurance
+11.02.04	Financial management
+11.02.05	Capital
+11.02.06	Investment
+11.02.07	Investment returns. Interest
+11.03.01	International monetary system - general
+11.03.02	International payments
+11.03.03	International capital movements
+12.01.01	Enterprises
+12.02.01	Economic concentration
+12.03.01	Entrepreneurs. Managers
+12.04.01	Management
+12.05.01	Equipment
+12.06.01	Technology
+12.07.01	Production - general
+12.07.02	Processing. Quality control. Standards
+12.07.03	Productivity
+12.08.01	Products
+12.08.02	Product development
+12.09.01	Cost accounting. Profit
+13.01.01	Labour - general
+13.01.02	Manpower
+13.01.03	Employment
+13.02.01	Personnel selection
+13.02.02	Personnel management
+13.03.01	Working conditions - general
+13.03.02	Types of work
+13.03.03	Hours of work
+13.03.04	Fatique. Job satisfaction
+13.04.01	Occupational safety
+13.05.01	Dismissal. Labour mobility
+13.06.01	Labour relations
+13.07.01	Wages. Wage incentives
+13.08.01	Leisure
+13.09.01	Occupations - general
+13.09.02	Types of workers
+13.09.03	Workers according to skill levels
+13.09.04	Occupations
+14.01.01	Demography
+14.01.02	Population
+14.02.01	Population composition - general
+14.02.02	Age distribution
+14.02.03	Sex distribution
+14.02.04	Family
+14.02.05	Marriage
+14.03.01	Ethnicity - general
+14.03.02	National and ethnic groups
+14.03.03	Races
+14.03.03.01	Papuan and Oceanic groups
+14.03.03.02	Filipinos
+14.03.03.03	Indonesian
+14.03.03.04	Asian
+14.03.03.05	American
+14.03.03.06	Amerindians
+14.04.01	Human settlements. Housing
+14.04.02	Rural areas
+14.04.03	Urban areas
+14.05.01	Fertility
+14.05.02	Family planning
+14.06.01	Mortality
+14.07.01	Migration
+15.01.01	Biology
+15.01.02	Microorganisms
+15.01.03	Biochemistry
+15.02.01	Anatomy. Genetics. Physiology - general
+15.02.02	Reproduction
+15.02.03	Genetics
+15.02.04	Physiology
+15.03.01	Food
+15.03.02	Nutrition
+15.04.01	Health and diseases - general
+15.04.02	Diseases
+15.04.03	Disability
+15.04.04	Medical care
+15.04.05	Patients
+15.04.06	Branches of medicine
+15.05.01	Pharmacology. Toxicology
+16.01.01	Ecology
+16.01.02	Environment and ecosystems
+16.02.01	Resources exploitation
+16.02.02	Types of natural resources
+16.03.01	Disaster - general
+16.03.02	Disasters
+16.03.03	Pests
+16.03.04	Pollution and pollutants
+16.04.01	Environmental management
+16.04.02	Waste management
+16.05.01	Resources conservation
+16.05.02	Nature reserves
+17.01.01	Meteorology - general
+17.01.02	Atmosphere
+17.01.03	Weather phenomena
+17.02.01	Climate - general
+17.02.02	Seasons
+17.02.03	Climatic zones
+17.03.01	Branches of geography
+17.03.02	Geographical aspects
+17.03.03	Cardinal points
+17.03.04	Land forms
+17.04.01	Earth sciences - general
+17.04.02	Seismology
+17.04.03	Soil sciences
+17.05.01	Hydrology - general
+17.05.02	Hydrological network
+17.05.03	Irrigation
+17.05.04	Hydraulic engineering and equipment
+17.05.05	Water
+17.06.01	Oceanography
+17.07.01	Space sciences
+18.01.01	Research. Science
+18.02.01	Organization of research
+18.03.01	Research methods. Theory
+18.04.01	Data collecting
+18.05.01	Experiments
+18.06.01	Measurement
+18.07.01	Mapping
+18.08.01	Mathematics. Statistical analysis
+18.09.01	Comparison. Evaluation
+18.10.01	Forecasts. Time factor
+19.01.01	Information - general
+19.01.02	Information services
+19.01.03	Information storage media
+19.01.04	Information systems
+19.01.05	Information processing
+19.01.06	Information dissemination
+19.02.01	Documents. Recordings
+19.02.02	Copyright
+19.02.03	Illustrations
+19.02.04	Primary documents
+19.02.05	Conference. Conference documents
+19.02.06	Serial publications
+19.02.07	Reports
+19.02.08	Monographs
+19.02.09	Secondary documents
+19.03.01	Terminology
